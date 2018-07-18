@@ -1,4 +1,0 @@
-D:\Hook\TestMuti\TestMuti\bin\Debug\TestMuti.exe
-D:\Hook\TestMuti\TestMuti\bin\Debug\TestMuti.pdb
-D:\Hook\TestMuti\TestMuti\obj\x86\Debug\TestMuti.exe
-D:\Hook\TestMuti\TestMuti\obj\x86\Debug\TestMuti.pdb
