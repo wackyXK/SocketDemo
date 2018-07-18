@@ -1,0 +1,4 @@
+D:\Hook\TestMuti\ClientSocket\bin\Debug\ClientSocket.exe
+D:\Hook\TestMuti\ClientSocket\bin\Debug\ClientSocket.pdb
+D:\Hook\TestMuti\ClientSocket\obj\x86\Debug\ClientSocket.exe
+D:\Hook\TestMuti\ClientSocket\obj\x86\Debug\ClientSocket.pdb
